@@ -1,0 +1,7 @@
+name: NerdNoon
+main: me.hammale.noon.noon
+version: 1.0
+commands:
+  noon:
+    description:
+    usage: |
